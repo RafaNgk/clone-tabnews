@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>rafinha, cara de farinha. helam, cara de chao. </h1>
+    return <h1>oi mainha linda como sempre, choveu muito ai hoje? </h1>
 }
 
 export default Home
